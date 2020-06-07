@@ -16,7 +16,6 @@ Collection of resources to create amazing StartPages
 - Currency rates API: [FreeForexAPI.org](https://www.freeforexapi.com/)
 
 ### Social Media
-
 - Reddit Karma
 ```
 https://www.reddit.com/user/USERNAME/about.json
@@ -25,6 +24,18 @@ https://www.reddit.com/user/USERNAME/about.json
 ```
 https://hacker-news.firebaseio.com/v0/user/USERNAME.json
 ```
+
+### Favicons
+DuckDuckGo:
+```
+https://icons.duckduckgo.com/ip3/{EXAMPLE.COM}.ico
+```
+
+Google:
+```
+https://www.google.com/s2/favicons?domain={EXAMPLE.COM}
+```
+
 
 ### Tutorial
 - Making an extension
