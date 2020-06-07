@@ -17,6 +17,8 @@ https://www.reddit.com/user/USERNAME/about.json
 ```
 https://hacker-news.firebaseio.com/v0/user/USERNAME.json
 ```
+# Misc
+- Currency rates API: [FreeForexAPI.org](https://www.freeforexapi.com/)
 
 # Tutorial
 - Making an extension
