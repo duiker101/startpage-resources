@@ -6,6 +6,14 @@ Collection of resources to create amazing StartPages
 
 # Weather
 - [WeatherWidget.io](https://weatherwidget.io)
+- [OpenWeatherMap.org](https://openweathermap.org)
+
+# Quotes
+- [Github zen](https://api.github.com/zen)
+- [Quotable.io](https://api.quotable.io/random)
+
+# Misc
+- Currency rates API: [FreeForexAPI.org](https://www.freeforexapi.com/)
 
 # Social Media
 
@@ -17,8 +25,6 @@ https://www.reddit.com/user/USERNAME/about.json
 ```
 https://hacker-news.firebaseio.com/v0/user/USERNAME.json
 ```
-# Misc
-- Currency rates API: [FreeForexAPI.org](https://www.freeforexapi.com/)
 
 # Tutorial
 - Making an extension
