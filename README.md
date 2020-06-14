@@ -3,6 +3,7 @@ Collection of resources to create amazing StartPages
 
 ### News
 - [NewsAPI.org](https://newsapi.org)
+- [Wikipedia Portal: Current events](https://en.wikipedia.org/wiki/Portal:Current_events)
 
 ### Weather
 - [WeatherWidget.io](https://weatherwidget.io)
